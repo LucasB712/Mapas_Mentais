@@ -41,11 +41,5 @@ Este repositório é licenciado sob a **MIT License**. Veja o arquivo [LICENSE](
 
 ---
 
-## 📬 **Contato**
-
-Tem alguma dúvida, sugestão ou feedback? Fique à vontade para abrir uma **Issue** ou me enviar um e-mail para: **seu-email@dominio.com**.
-
----
-
 ## 🔥 **Aproveite a jornada de aprendizagem visual!** 🚀
 - **"A Ciência da Computação é como um mapa mental. Quanto mais você explora, mais conexões você faz!"**
